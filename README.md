@@ -1,2 +1,3 @@
-# case_study
-A Data Science Case Study
+# Data Science Case Study
+
+## Boston Housing Data
